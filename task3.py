@@ -108,4 +108,33 @@ import math
 
 # Task 3
 
-/
+
+# def add_objects(string, integer):
+#     a = string + str(integer)
+#     return a
+
+# class MyInt(int):
+
+#     def add(self, *args, **kwargs): 
+        
+#         print('Это сложение!')
+#         return args[0]
+
+    
+# class MyString(str):
+    
+#     def add(self, *args, **kwargs):
+        
+#         print('Это конкатенация!')
+#         return args[0]
+
+
+# num = MyInt()
+# num1 = num.add(5 + 3)
+# print(num1)
+# string = MyString()
+# string1 = string.add('hello' 'world')
+# print(string1)
+# total_received = add_objects(string = string1, integer = num1)
+# print(total_received)
+
